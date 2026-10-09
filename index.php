@@ -85,3 +85,5 @@ function generarMapa(array $mapaZelda)
 }
 
 include('index.tpl.php');
+
+// Hola soy la nueva línea
