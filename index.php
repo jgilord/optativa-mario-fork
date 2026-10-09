@@ -87,3 +87,5 @@ function generarMapa(array $mapaZelda)
 include('index.tpl.php');
 
 // Hola soy la nueva 
+
+// Este es el cambio hecho en github.com
