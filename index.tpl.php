@@ -21,7 +21,7 @@
 
 <body>
     <h1>The Legend of Zelda: A link to PHP</h1>
-    <p>Cambio de ejemplo</p>
+    <p>Cambio de ejemplo v2</p>
     <div class="fondo">
         <div class="tile link"></div>
         <?php /** @var array $mapa */ ?>
