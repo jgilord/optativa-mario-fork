@@ -10,7 +10,7 @@
 <?php /** @var Array $link */ ?>
 <style>
     .link {
-        background-image: url(tiles/link.png);
+        background-image: url(tiles/queso.webp);
         background-repeat: no-repeat;
         background-size: 16px;
         position: absolute;
